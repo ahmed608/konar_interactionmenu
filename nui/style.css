@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+
+
+.container{
+    position: absolute;
+    top: 58%;
+    left: 35%;
+    width: 160px;
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0.646);
+    padding-top: 12px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.ptn{
+    border: 2px solid rgb(202, 198, 198);
+    border-radius: 50%;
+    padding:5px;
+    color: #fff;
+    font-weight: bolder;
+}
+.text{
+    margin-left: 6px;
+    color: rgba(255, 255, 255, 0.864);
+}
